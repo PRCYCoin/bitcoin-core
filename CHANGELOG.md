@@ -1,4 +1,7 @@
 # Changelog
+## [2.3.1](https://github.com/PRCYCoin/bitcoin-core/tree/2.3.1) (2022-07-19)
+
+- Bump json-bigint to v1.0.0 to fix [CVE-2020-8237](https://github.com/advisories/GHSA-wgfq-7857-4jcc)
 
 ## [2.3.0](https://github.com/ruimarinho/bitcoin-core/tree/2.3.0) (2019-09-27)
 
